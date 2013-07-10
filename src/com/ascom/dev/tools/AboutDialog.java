@@ -32,7 +32,7 @@ public class AboutDialog extends JDialog
         		"DGrep Version 1.0<br>" +
         		"\u00a9 by dbon<br>" +
         		"2012<br><br>" +        		
-        		"to report bugs please use: dbon@me.com" +
+        		"to report bugs please use: daniel.bongartz@gmail.com" +
         		"</center></body></html>");
         text.setAlignmentX(0.5f);
         text.setHorizontalAlignment((int) CENTER_ALIGNMENT);
